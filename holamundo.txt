@@ -1,6 +1,6 @@
 hola, estoy probando git, el sistema de control de codigo fuente.
 
-Buenas tardes!
+
 
 Estamos en la oficina de Ok One. La direccion es Cra 23 62-16 local 203.
 
