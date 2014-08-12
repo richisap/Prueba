@@ -5,3 +5,4 @@ hola, estoy probando git, el sistema de control de codigo fuente.
 Estamos en la oficina de Ok One. La direccion es Cra 23 62-16 local 203.
 
 En este momento nos encontramos en el segundo piso de la oficina.
+Estamos haciendo el ejercicio en linea.
